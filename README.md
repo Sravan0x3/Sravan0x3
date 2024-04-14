@@ -1,12 +1,12 @@
 Hi 👋 My name is Sravan
 =======================
 
-Full stack Developer
+Full Stack Developer
 --------------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sravantp99@gmail.com](mailto:sravantp99@gmail.com)
-* 🧠  I'm learning Javascript, Typescript, Node Js, Express Js ...
+* 🧠  I'm learning Javascript, Typescript, React Js, Node Js, Express Js ...
 * 🤝  I'm open to collaborating on Full stack projects
 
 ### Skills
