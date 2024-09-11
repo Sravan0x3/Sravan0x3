@@ -6,8 +6,8 @@ Full Stack Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sravantp99@gmail.com](mailto:sravantp99@gmail.com)
-* 🧠  I'm learning Javascript, Typescript, React Js, Node Js, Express Js ...
-* 🤝  I'm open to collaborating on Full stack projects
+* 🧠  I'm learning Javascript, Typescript, React.js, Node.js, Express.js ...
+* 🤝  I'm open to collaborating on Full Stack projects
 
 ### Skills
 
